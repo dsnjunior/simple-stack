@@ -1,5 +1,11 @@
 # simple-stack-form
 
+## 0.1.7
+
+### Patch Changes
+
+- [#24](https://github.com/bholmesdev/simple-stack/pull/24) [`a3f27ed`](https://github.com/bholmesdev/simple-stack/commit/a3f27ede1ab4810442099e770bed086f11204811) Thanks [@dsnjunior](https://github.com/dsnjunior)! - Add Solid JS template
+
 ## 0.1.6
 
 ### Patch Changes
